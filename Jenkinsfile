@@ -9,7 +9,7 @@ pipeline {
 
     stage('Test') {
       steps {
-        echo 'Want to test'
+        echo 'I want to test'
       }
     }
 
